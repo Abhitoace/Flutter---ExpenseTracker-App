@@ -1,6 +1,5 @@
-# expansePlaner
-
-A new Flutter project.
+## ExpansePlaner
+An app build with flutter to keep track of your daily expences. The app is almost ready with just one error in the chart. The error might be due in the chart.dart file or infuncton in home.dart file. Can anybody help me fix that?
 
 ## Getting Started
 
